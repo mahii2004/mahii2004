@@ -17,7 +17,7 @@ I love creating clean and efficient code, solving real-world problems, and contr
 
 - **Frontend:** HTML5, CSS3, JavaScript, React.js, Redux
 - **Backend:** Java, Spring Boot, JDBC, REST APIs
-- **Database:** MySQL
+- **Database:** MySQL, postgresql, 
 - **Tools:** Git, GitHub, Postman, VS Code, Eclipse
 - **Concepts:** OOP, MVC Architecture, CRUD Operations
 
