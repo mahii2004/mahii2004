@@ -1,13 +1,13 @@
   # 👋 Hi, I'm Mahendra Dadibathina
 
 🎯 **Java Full Stack Developer** | 💻 Passionate Coder | 🌐 Tech Enthusiast  
-📍 Hyderabad, India | 📬 mahendradadibathina@gmail.com
+📍 Nellore, India | 📬 mahendradadibathina@gmail.com
 
 ---
 
 ## 🚀 About Me
 
-I'm a motivated and detail-oriented **Java Full Stack Developer** with practical experience in building dynamic web applications using **Java, Spring Boot, MySQL, and React.js**.
+I'm a motivated and detail-oriented **Java Full Stack Developer** with practical experience in building dynamic web applications using **Java, Spring Boot, MySQL, Azure , Kafka , spring security and React.js**.
 
 I love creating clean and efficient code, solving real-world problems, and contributing to collaborative, agile development teams. Currently seeking opportunities to grow and build impactful solutions.
 
@@ -17,9 +17,9 @@ I love creating clean and efficient code, solving real-world problems, and contr
 
 - **Frontend:** HTML5, CSS3, JavaScript, React.js, Redux
 - **Backend:** Java, Spring Boot, JDBC, REST APIs
-- **Database:** MySQL, postgresql, 
-- **Tools:** Git, GitHub, Postman, VS Code, Eclipse
-- **Concepts:** OOP, MVC Architecture, CRUD Operations
+- **Database:** MySQL, postgresql, azure cosmos , storage blob  
+- **Tools:** Git, GitHub, Postman, VS Code, Eclipse , Azure
+- **Concepts:** OOP, MVC Architecture, CRUD Operations , Micro Services 
 
 ---
 
